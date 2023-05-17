@@ -13,6 +13,7 @@ class Producto(models.Model):
     categoria = models.ForeignKey(Categoria, on_delete=models.CASCADE)
     descripcion = models.TextField()
     imagen_url = models.URLField(max_length=600)
+    precio = models.PositiveIntegerField(50)
 
     def __str__(self):
         return self.nombre
