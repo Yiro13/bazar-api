@@ -1,7 +1,7 @@
 # bazar-api
 
-Ana Rojas Perez,
-Salma Vazquez Herrera,
+Ana María Rojas Pérez,
+Salma Vázquez Herrera,
 Edgar Aguilar Garcia,
 Yahir Alejandro Bañuelos Leo
 
