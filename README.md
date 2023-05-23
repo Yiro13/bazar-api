@@ -34,3 +34,9 @@ Django REST Framework es una biblioteca de Python que se utiliza para construir 
 Django REST Framework agrega capacidades de serialización y deserialización para convertir objetos Python en 
 formatos de intercambio de datos como JSON o XML. También proporciona vistas genéricas y clases de serialización que permiten definir fácilmente
 la lógica de la API y la forma en que los datos son representados y manipulados.
+
+![Captura de la página principal del API](imgreadme/cap1.jpeg)
+
+![Captura de la lista de productos almacenados](imgreadme/cap2.jpeg)
+
+![Captura de la lista de productos almacenados](imgreadme/cap3.jpeg)
